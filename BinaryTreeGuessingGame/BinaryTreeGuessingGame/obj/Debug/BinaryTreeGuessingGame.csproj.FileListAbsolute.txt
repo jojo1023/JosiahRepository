@@ -1,0 +1,13 @@
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\bin\Debug\BinaryTreeGuessingGame.exe.config
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\bin\Debug\BinaryTreeGuessingGame.exe
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\bin\Debug\BinaryTreeGuessingGame.pdb
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.csprojResolveAssemblyReference.cache
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.Form1.resources
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.Properties.Resources.resources
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.csproj.GenerateResource.Cache
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.exe
+c:\users\josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.pdb
+C:\Users\Josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.Form2.resources
+C:\Users\Josiah\documents\visual studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.Form3.resources
+C:\Users\Josiah\Documents\Visual Studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.Form4.resources
+C:\Users\Josiah\Documents\Visual Studio 2015\Projects\BinaryTreeGuessingGame\BinaryTreeGuessingGame\obj\Debug\BinaryTreeGuessingGame.Form4OLD.resources

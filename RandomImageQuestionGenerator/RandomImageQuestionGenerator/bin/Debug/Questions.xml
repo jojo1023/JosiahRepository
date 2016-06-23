@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Question name="testQuestion" deleted="false">
+    <CorrectAnwser>C:\Users\Josiah\Desktop\image006.jpg</CorrectAnwser>
+    <Selction>
+      <X>337</X>
+      <Y>141</Y>
+      <Width>24</Width>
+      <Height>24</Height>
+    </Selction>
+    <Replacements>
+      <Replacement>dsf</Replacement>
+      <Replacement>jhfdsljsd</Replacement>
+    </Replacements>
+  </Question>
+</Questions>
